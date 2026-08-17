@@ -1,7 +1,7 @@
 ### open-webui for local environment:
 
 ```
-sudo docker run -d   --name open-webui   -e HF_TOKEN=hf_YDGBxXkoavqaejOccmECffNBasxcKbelWKXecJ   -p 3000:8080   -v open-webui:/app/backend/data   ghcr.io/open-webui/open-webui:main
+sudo docker run -d   --name open-webui   -e HF_TOKEN=hf_YDGBxXkoavqbaejOcjcmECffNBasxcKbelWKXecJ   -p 3000:8080   -v open-webui:/app/backend/data   ghcr.io/open-webui/open-webui:main
 ```
 - You can connect open-webui with the  local deployed LLM server and it works.
 
