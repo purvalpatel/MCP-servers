@@ -146,3 +146,6 @@ List available MCP servers:
 | Playwright    | Playwright MCP          | Browser automation                  |
 | Filesystem    | Official Filesystem MCP | Local file access                   |
 | Memory        | Official Memory MCP     | Persistent AI memory                |
+
+
+For More MCP servers click on this [link](https://github.com/cyberstrikeus/bolt)
