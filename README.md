@@ -117,7 +117,7 @@ sudo docker run -d   --name open-webui   -e HF_TOKEN=hf_YDGBxXkoavfqaejOccmECffN
 - You can connect open-webui with the  local deployed LLM server and it works.
 
 List available MCP servers:
-```
+
 | Category      | MCP Server              | Use Case                            |
 | ------------- | ----------------------- | ----------------------------------- |
 | Kubernetes    | Kubernetes MCP          | Manage clusters, pods, deployments  |
@@ -146,4 +146,3 @@ List available MCP servers:
 | Playwright    | Playwright MCP          | Browser automation                  |
 | Filesystem    | Official Filesystem MCP | Local file access                   |
 | Memory        | Official Memory MCP     | Persistent AI memory                |
-```
